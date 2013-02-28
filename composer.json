@@ -1,0 +1,15 @@
+{
+    "name": "schmunk42/web-user-behavior",
+    "description": "Yii Behavior, which implments features from WebUser from mishamx/yii-user",
+    "keywords": ["yii", "yii-user", "yii-rights", "webuser", "behavior"],
+    "homepage": "https://github.com/schmunk42/web-user-behavior",
+    "type": "yii-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Tobias Munk",
+            "email": "schmunk@usrbin.de",
+            "homepage": "http://www.usrbin.de"
+        }
+    ]
+}
