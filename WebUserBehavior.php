@@ -26,6 +26,9 @@ class WebUserBehavior extends CBehavior
     public function updateSession()
     {
         $user              = Yii::app()->getModule('user')->user($this->id);
+
+        if ($user == false) return; // TODO?
+
         $this->owner->name = $user->username;
         $userAttributes    = CMap::mergeArray(array(
                                                    'email'        => $user->email,
