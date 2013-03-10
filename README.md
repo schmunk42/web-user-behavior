@@ -1,7 +1,7 @@
 web-user-behavior
 =================
 
-This extension can be used to ensure compatiblity between [rights](http://www.yiiframework.com/extension/rights) and
+This extension provides methods to ensure compatiblity for [rights](http://www.yiiframework.com/extension/rights) and
 [yii-user](http://www.yiiframework.com/extension/yii-user/).
 
 Features
