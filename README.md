@@ -28,9 +28,11 @@ Download
 Usage
 -----
 
-* Download
-* Extract and place it into your application
-* Configure:
+Download
+
+Extract and place it into your application
+
+Configure:
 
     'user' => array(
         'class' => 'RWebUser',
