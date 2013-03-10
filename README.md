@@ -22,7 +22,7 @@ Installation
 Download
 --------
 
-[Via github](https://github.com/schmunk42/web-user-behavior)
+[Via github](https://github.com/schmunk42/web-user-behavior/tags)
 
 
 Usage
