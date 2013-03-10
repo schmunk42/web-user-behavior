@@ -49,4 +49,4 @@ Resources
 
  * Availble via [Phundament 3](http://phundament.com) Composer Package Repository http://packages.phundament.com
  * [Fork on github](https://github.com/schmunk42/web-user-behavior)
- * View at Yii Extensions
+ * [View at Yii Extensions](http://www.yiiframework.com/extension/web-user-behavior/)
