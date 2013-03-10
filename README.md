@@ -8,7 +8,7 @@ Features
 --------
 
 Yii Behavior, which implments features from WebUser from mishamx/yii-user to avoid errors when using both extensions
-mentioned above.
+mentioned above together.
 
 
 Installation
@@ -28,13 +28,17 @@ Download
 Usage
 -----
 
-Configuration:
+* Download
+* Extract and place it into your application
+* Configure:
 
     'user' => array(
         'class' => 'RWebUser',
         'behaviors' => array(
             'vendor.schmunk42.web-user-behavior.WebUserBehavior'),
     ),
+    
+Attaches methods needed by yii-user module to your WebUser class from rights.    
 
 
 Resources
