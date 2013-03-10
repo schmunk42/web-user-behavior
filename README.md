@@ -37,10 +37,11 @@ Configure:
     'user' => array(
         'class' => 'RWebUser',
         'behaviors' => array(
-            'vendor.schmunk42.web-user-behavior.WebUserBehavior'),
+            'vendor.schmunk42.web-user-behavior.WebUserBehavior'
+        ),
     ),
     
-Attaches methods needed by yii-user module to your WebUser class from rights.    
+Attaches methods needed by yii-user module to your RWebUser class from rights.    
 
 
 Resources
